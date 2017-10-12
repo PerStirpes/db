@@ -12,3 +12,4 @@ In order to run your server from this directly from this directory, you must fir
 This copies the files `server/app.js` and `server/routes.js` from the `server` directory to here. Once prepared, the server can be run in the usual way:
 
         npm start
+or yarn start
