@@ -25,4 +25,4 @@ Message.sync();
 // to drop any existing user and message tables and make new ones.
 
 exports.User = User;
-exports.Message = Message;
+exports.Message = Message
